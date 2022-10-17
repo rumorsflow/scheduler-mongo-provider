@@ -3,7 +3,7 @@ package smp
 import (
 	"context"
 	"fmt"
-	"github.com/go-funcards/slice"
+	"github.com/go-fc/slice"
 	"github.com/hibiken/asynq"
 	"github.com/rumorsflow/mongo-ext"
 )
