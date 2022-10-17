@@ -6,7 +6,7 @@ require (
 	github.com/go-funcards/slice v0.0.0-20221006100628-62fc5503cf4a
 	github.com/hibiken/asynq v0.23.0
 	github.com/roadrunner-server/errors v1.2.0
-	github.com/rumorsflow/mongo-ext v0.0.0-20221010091418-14a65836ad32
+	github.com/rumorsflow/mongo-ext v0.0.0-20221017134858-944392c49655
 	github.com/spf13/cast v1.5.0
 	go.mongodb.org/mongo-driver v1.10.3
 	go.uber.org/zap v1.23.0
@@ -15,6 +15,7 @@ require (
 require (
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
+	github.com/go-fc/slice v0.0.0-20221017134547-de0d7a158c21 // indirect
 	github.com/go-redis/redis/v8 v8.11.2 // indirect
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
