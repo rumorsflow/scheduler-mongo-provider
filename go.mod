@@ -3,10 +3,10 @@ module github.com/rumorsflow/scheduler-mongo-provider
 go 1.19
 
 require (
-	github.com/go-fc/slice v0.0.0-20221017134547-de0d7a158c21
 	github.com/hibiken/asynq v0.23.0
 	github.com/roadrunner-server/errors v1.2.0
-	github.com/rumorsflow/mongo-ext v0.0.0-20221017134858-944392c49655
+	github.com/rumorsflow/mongo-ext v0.0.0-20221031170119-717bc3d0c002
+	github.com/samber/lo v1.33.0
 	github.com/spf13/cast v1.5.0
 	go.mongodb.org/mongo-driver v1.10.3
 	go.uber.org/zap v1.23.0
@@ -30,8 +30,9 @@ require (
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
+	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 // indirect
+	golang.org/x/sys v0.0.0-20211019181941-9d821ace8654 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
