@@ -23,7 +23,7 @@ func (p *provider) GetConfigs() ([]*asynq.PeriodicTaskConfig, error) {
 			return nil, err
 		}
 
-		data = append(data, lo.Map[PeriodicTask, *asynq.PeriodicTaskConfig](items, toConfig)...)
+		data = append(data, lo.Map(items, toConfig)...)
 
 		if len(items) < int(size) {
 			break

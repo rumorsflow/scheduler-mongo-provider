@@ -74,8 +74,8 @@ github.com/roadrunner-server/errors v1.2.0/go.mod h1:z0ECxZp/dDa5RahtMcy4mBIavVx
 github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
 github.com/robfig/cron/v3 v3.0.1/go.mod h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro=
 github.com/rogpeppe/go-internal v1.6.1 h1:/FiVV8dS/e+YqF2JvO3yXRFbBLTIuSDkuC7aBOAvL+k=
-github.com/rumorsflow/mongo-ext v0.0.0-20221031170119-717bc3d0c002 h1:+c85DFHPB7mewXH4U3rgTqH2alcsPlQ/lfcy70iGDQI=
-github.com/rumorsflow/mongo-ext v0.0.0-20221031170119-717bc3d0c002/go.mod h1:S5V4Fef/fu6IKXEErl1jK6TemNW2BamOmeRKEtqWbDM=
+github.com/rumorsflow/mongo-ext v0.0.0-20221103002717-ea1c332bb951 h1:NOxTmfSAA0si26dRnTug7muZIjuyJ+gOIeYQGFM1uYM=
+github.com/rumorsflow/mongo-ext v0.0.0-20221103002717-ea1c332bb951/go.mod h1:S5V4Fef/fu6IKXEErl1jK6TemNW2BamOmeRKEtqWbDM=
 github.com/samber/lo v1.33.0 h1:2aKucr+rQV6gHpY3bpeZu69uYoQOzVhGT3J22Op6Cjk=
 github.com/samber/lo v1.33.0/go.mod h1:HLeWcJRRyLKp3+/XBJvOrerCQn9mhdKMHyd7IRlgeQ8=
 github.com/spf13/cast v1.3.1/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkUJE=

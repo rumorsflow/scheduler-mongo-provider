@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/hibiken/asynq v0.23.0
 	github.com/roadrunner-server/errors v1.2.0
-	github.com/rumorsflow/mongo-ext v0.0.0-20221031170119-717bc3d0c002
+	github.com/rumorsflow/mongo-ext v0.0.0-20221103002717-ea1c332bb951
 	github.com/samber/lo v1.33.0
 	github.com/spf13/cast v1.5.0
 	go.mongodb.org/mongo-driver v1.10.3
